@@ -38,7 +38,9 @@ The project can be cloned and run as following:
 i)Run backednd after navigating to the functions as --> firebase emulators:start ii) npm start(Open http://localhost:3000 to view it in your browser.)
 
 This project uses React.js , Firebase , and Stripe.
-----------------------------------------------------------------+++++++++++++++++++++++++++++++++++++++++______________________-
+---------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++
+___________________________________________________
 
 firebase login should be via a cmd, the login might not work in powershell
 after npm run build, any change in the application will have to updated using the npm run build command
