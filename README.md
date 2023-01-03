@@ -32,13 +32,16 @@ https://challenge-7d9e7.web.app/
 
 ### Home Page -
 ![ama1](https://user-images.githubusercontent.com/86125077/210316057-d9b6e135-dd91-481a-888d-6e86337e85da.png)
+
+
+
 ![ama2](https://user-images.githubusercontent.com/86125077/210316068-ec57bd1b-0070-4d30-bc1e-a64c2d67c132.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Login Page -
 ![ama3](https://user-images.githubusercontent.com/86125077/210316277-ac8ad501-91ee-4e08-818e-b2a0b178428b.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### Cart Page -
 ![ama4](https://user-images.githubusercontent.com/86125077/210316181-14e39547-3846-4280-9753-6b734871a306.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,6 +49,7 @@ https://challenge-7d9e7.web.app/
 ### Check Out Page -
 ![ama5](https://user-images.githubusercontent.com/86125077/210316369-40d41922-b82b-489c-b88d-e20106a3108a.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Confirmation Page -
 ![ama6](https://user-images.githubusercontent.com/86125077/210316438-17d8f404-a354-4347-bca2-9bcf9d786e9e.png)
@@ -57,7 +61,7 @@ https://challenge-7d9e7.web.app/
 To deploy this project run
 
 bash
-  npm run build
+npm run build
 
 Upload the build file to a hosting app.
 This App is hosted using Netlify.
