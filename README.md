@@ -9,7 +9,7 @@
 -->  https://challenge-7d9e7.web.app/
 
 
-
+https://img.shields.io/badge/Dependencies-Node.js-orange
 
   
 ### --------------------------------------------FOR DEVELOPER----------------------------------------
