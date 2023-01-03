@@ -9,7 +9,20 @@
 -->  https://challenge-7d9e7.web.app/
 
 
-https://img.shields.io/badge/Dependencies-Node.js-orange
+## Dependencies
+
+Dependencies used in the project are as follows
+
+[![Node.js](https://img.shields.io/badge/Dependency-Node.js-red)](https://nodejs.org/en/)
+
+![React.js](https://img.shields.io/badge/Library-React.js-blue)
+
+[![AGPL License](https://img.shields.io/badge/Backend-Firebase-lightgrey)](http://www.firebase.com)
+
+[![AGPL License](https://img.shields.io/badge/dependency-Javascript-orange)](http://www.javascript.com)
+
+[![AGPL License](https://img.shields.io/badge/UI-Material--UI-yellowgreen)](http://www.materialui.com)
+
 
   
 ### --------------------------------------------FOR DEVELOPER----------------------------------------
