@@ -24,7 +24,7 @@ Dependencies used in the project are as follows
 
 [![AGPL License](https://img.shields.io/badge/dependency-Javascript-orange)](http://www.javascript.com)
 
-[![AGPL License](https://img.shields.io/badge/UI-Material--UI-yellowgreen)](http://www.materialui.com)
+[![AGPL License](https://img.shields.io/badge/UI-Material--UI-yellowgreen)](http://www.mui.com)
 
 
 ## Demo
@@ -64,7 +64,7 @@ bash
 npm run build
 
 Upload the build file to a hosting app.
-This App is hosted using Netlify.
+This App is hosted using Firebase.
 
 
 
