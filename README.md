@@ -60,8 +60,9 @@ https://challenge-7d9e7.web.app/
 
 To deploy this project run
 
-bash
+```bash
 npm run build
+```
 
 Upload the build file to a hosting app.
 This App is hosted using Firebase.
